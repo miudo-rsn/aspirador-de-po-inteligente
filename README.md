@@ -21,11 +21,9 @@ Análise do Treinamento
 O gráfico gerado mostra que o erro total diminui ao longo das épocas, indicando que o modelo está aprendendo corretamente com os dados fornecidos.
 
 Equipe
-- Nome 1
-- Nome 2
-- Nome 3
-- Nome 4
-- Nome 5
-
+- Nome: Fabricio rocha RA: 125111399975
+- Nome: Maycon
+- Nome: Matheus 
+  
 Referências
 - 
