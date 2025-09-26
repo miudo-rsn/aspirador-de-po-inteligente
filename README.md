@@ -23,7 +23,5 @@ O gráfico gerado mostra que o erro total diminui ao longo das épocas, indicand
 Equipe
 - Nome: Fabricio Rocha RA:125111399975
 - Nome: Maycon Soares RA:125111404445
-- Nome: Matheus RA: 
-  
-Referências
-- 
+- Nome: Matheus RA:125111402366
+
